@@ -1,0 +1,6 @@
+enabled: true
+repair-cost: 1
+
+messages:
+  reload-success: "&aКонфігурацію FastMending успішно перезавантажено!"
+  no-permission: "&cУ вас немає прав на використання цієї команди!"

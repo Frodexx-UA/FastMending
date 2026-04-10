@@ -1,0 +1,12 @@
+name: FastMending
+version: '${version}'
+api-version: '1.21'
+authors: [ Frodexx_UA ]
+main: uadev.fastmending.FastMending
+description: 'Перетворює зачарування Лагодження на одноразовий предмет повного ремонтування'
+
+commands:
+  fmreload:
+    description: Перезавантажити конфігурацію
+    permission: fastmending.reload
+    usage: /fmreload
