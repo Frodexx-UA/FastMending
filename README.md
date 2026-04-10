@@ -31,3 +31,6 @@ messages:
 ```
 
 > Для кольорів у повідомленнях використовуйте `&` з кодом кольору, наприклад `&a` — зелений, `&c` — червоний.
+
+<img width="567" height="526" alt="image1" src="https://github.com/user-attachments/assets/b7ed73dd-c0c7-4d5c-ae81-82ed3b4dca84" />
+<img width="565" height="534" alt="image2" src="https://github.com/user-attachments/assets/b9065f22-e83e-4e8d-adaf-6c66baa19563" />
